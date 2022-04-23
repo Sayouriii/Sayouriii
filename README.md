@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayouriii
+- 👋 Hi, I’m @Shervin
 - 👀 I’m interested in becoming a full stack developer 
 - 🌱 I’m currently learning html, css, JS, and soon React
 - 💞️ I’m looking to collaborate on ...
